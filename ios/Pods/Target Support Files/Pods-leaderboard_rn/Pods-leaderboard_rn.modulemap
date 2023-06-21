@@ -1,0 +1,6 @@
+module Pods_leaderboard_rn {
+  umbrella header "Pods-leaderboard_rn-umbrella.h"
+
+  export *
+  module * { export * }
+}
